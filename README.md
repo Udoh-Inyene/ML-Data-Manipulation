@@ -1,2 +1,2 @@
-# ML---Data-Manipulation
+# ML-Data-Manipulation
 Manipulation of Data using Pandas
